@@ -1,0 +1,25 @@
+.container-fluid {
+    background-color: yellowgreen;
+}
+.col {
+    background-color: dodgerblue;
+}
+.col-6 {
+    background-color: burlywood;
+    border: 1px solid white;
+    color: white;
+}
+.col-3 {
+    background-color: navajowhite;
+    border: 1px solid white;
+    color: white;
+}
+.col-md-6 {
+    background-color: salmon;
+    border: 1px solid black;
+}
+.col-md-4 {
+    background-color: blueviolet;
+    border: 1px solid white;
+    color: white;
+}
